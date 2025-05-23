@@ -1,4 +1,83 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Emre Guzel
+* Created on: March April 2 2025
 * This file contains the CSS for index.html
 */
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: "Atkinson Hyperlegible Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background: skyblue;
+  margin-left: 2rem;
+}
+
+.dimatoins {
+  color: black;
+  font-weight: 900;
+  font-style: bold;
+  font-display: initial;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.formula {
+color: black;
+  font-weight: 900;
+  font-style: bold;
+  font-display: initial;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.Calculate {
+  width: 27%;
+  text-align: center;
+  margin-left: 66vw;
+  margin-top: -8rem;
+}
+
+#perimeter {
+  color: white;
+  font-weight: 500;
+  font-style: italic;
+  font-display: initial;
+}
+
+#area {
+  color: black;
+  font-weight: 500;
+  font-style: italic;
+  font-display: initial;
+  margin-bottom: 1rem;
+  margin-top: .5rem;
+}
+
+.base-a {
+  margin: 0;
+
+}
+
+#base-a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#base-b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#height {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
